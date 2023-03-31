@@ -25,7 +25,7 @@ export const Greeting = () => {
         </div>
 
         <div className="text-brand-textcolor1">
-          24 сентября 2023
+          29 июля 2023
         </div>
       </div>
     </div>

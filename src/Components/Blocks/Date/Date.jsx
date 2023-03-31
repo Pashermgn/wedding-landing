@@ -11,7 +11,7 @@ export const Date = () => {
 
           <div className="flex flex-col justify-center items-center">
             <p>Суббота</p>
-            <p className="text-4xl">15</p>
+            <p className="text-4xl">29</p>
             <p>2023</p>
           </div>
 
